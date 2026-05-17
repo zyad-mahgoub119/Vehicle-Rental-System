@@ -1,0 +1,2 @@
+101|Toyota|Camry|2023|45.5|Sedan|1
+102|Tesla|Model 3|2024|85|Electric|0
