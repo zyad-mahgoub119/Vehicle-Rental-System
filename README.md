@@ -6,7 +6,6 @@
 [![Algorithms](https://img.shields.io/badge/Sorting-Merge%20Sort-239120?style=for-the-badge&logo=buffer&logoColor=white)]()
 [![Search](https://img.shields.io/badge/Search-Binary%20Search-FF8C00?style=for-the-badge&logo=search&logoColor=white)]()
 [![Data Structure](https://img.shields.io/badge/Data%20Structure-AVL%20Tree-5C2D91?style=for-the-badge&logo=databricks&logoColor=white)]()
-[![Visual Studio](https://img.shields.io/badge/Visual%20Studio-2022-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)](https://visualstudio.microsoft.com/)
 
 **A fully algorithmic C++ console application for managing a vehicle rental business — customers, fleet, bookings, and more.**
 
